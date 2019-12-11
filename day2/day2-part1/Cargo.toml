@@ -1,0 +1,7 @@
+[package]
+name = "advent2019-day2-part1"
+version = "1.0.0"
+authors = ["Tim Oram <dev@mitmaro.ca>"]
+license = "ISC"
+description = "Day 2: 1202 Program Alarm - Part 1"
+edition = "2018"
