@@ -1,0 +1,7 @@
+[package]
+name = "advent2019-day1-part2"
+version = "1.0.0"
+authors = ["Tim Oram <dev@mitmaro.ca>"]
+license = "ISC"
+description = "Day 1: The Tyranny of the Rocket Equation - Part 2"
+edition = "2018"
