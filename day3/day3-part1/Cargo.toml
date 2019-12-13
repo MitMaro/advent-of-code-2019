@@ -1,0 +1,7 @@
+[package]
+name = "advent2019-day3-part1"
+version = "1.0.0"
+authors = ["Tim Oram <dev@mitmaro.ca>"]
+license = "ISC"
+description = "Day 3: Crossed Wires - Part 1"
+edition = "2018"
